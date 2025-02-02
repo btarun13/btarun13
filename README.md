@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, here are some of my code and packages 👋
 
 <!--
 **btarun13/btarun13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Matrix Code](https://via.placeholder.com/800x200.png?text=Upload+Matrix+Image+to+a+Host)
