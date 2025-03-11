@@ -1,4 +1,4 @@
-## Hi there, 👋
+## Hello World, 👋
  Here are some of my projects and packages. More updates to come ...
 <!--
 **btarun13/btarun13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
