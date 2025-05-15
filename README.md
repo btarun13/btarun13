@@ -2,6 +2,8 @@
 Hi, I’m Tarun — a data scientist passionate about turning complex data into actionable insights. I specialize in graph neural networks, causal inference, and ML workflows for scientific applications. From building GNN-powered epigenetic models to developing open-source packages for graph-based drug discovery, I’m exploring the intersection of networks, AI, software design and mathematics.
 
 🚀 Recent: RAG pipeline with Pinecone | Drug-disease recommender | Visibility Graphs for time series
+
+
 📍 Based in Oxford | 🛠 Python, R, PyTorch Geometric, LangChain | 🌐 linkedin.com/in/tarun-naithani-98719a123
 
 
