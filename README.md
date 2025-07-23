@@ -4,7 +4,7 @@ Hi, I’m Tarun — a data scientist passionate about turning complex data into 
 🚀 Recent: RAG pipeline with Pinecone | Drug-disease recommender | Visibility Graphs for time series
 
 
-📍 Based in Oxford | 🛠 Python, R, PyTorch Geometric, LangChain | 🌐 linkedin.com/in/tarun-naithani-98719a123
+📍 Based in hyderabad  | 🛠 Python, R, PyTorch Geometric, LangChain | 🌐 linkedin.com/in/tarun-naithani-98719a123
 
 
  Here are some of my packages and experimental projects. More updates to come ...
