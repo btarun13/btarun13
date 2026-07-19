@@ -6,6 +6,7 @@ Hi, I’m Tarun — a data scientist passionate about turning complex data into 
 🚀 Learning and building new stuff every now and then
 
 🌐 linkedin.com/in/tarun-naithani-98719a123
+🌐 scholar.google.com/citations?user=3-eYb84AAAAJ&hl=en&authuser=1
 
 
  Here are some of my packages and experimental projects. More updates to come ...
